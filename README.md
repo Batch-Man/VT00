@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # VT100 Batch Library
 
 ## Overview
@@ -36,3 +37,27 @@ Since there are many Variables defined in this library, so instead of listing ev
 Call VT100.bat /?
 ```
 
+=======
+
+# VT100 - by Kvc
+## Description
+This program can ___________________________________________________
+
+Author: Kvc
+
+## Usage
+Call VT100 [syntax]
+
+Where:
+
+- `ver`		: 	Displays version of program
+- `help`		: 	Displays help for the program
+- `_________`	: 	___________________________________________________
+
+Example: 
+`call VT100 ____________`
+
+
+
+www.batch-man.com
+>>>>>>> 03a2fe5 (First Release after a year of procasinating)
