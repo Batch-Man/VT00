@@ -10,10 +10,10 @@ The **VT100 Batch Library** is a simple and efficient solution for incorporating
 - Lightweight and easy to integrate.
 
 ## Installation
-1. Clone this repository or download the `VT100.bat` file.
+1. Clone this repository or download the `VT100.bat` file (located inside the `src` folder).
 2. Include the library in your batch script using:
    ```batch
-   CALL VT100.bat
+   call VT100.bat
 
 ## Usage
 Example
@@ -30,9 +30,11 @@ PAUSE
 
 ## List of Variables
 
-Since there are many Variables defined in this library, so instead of listing everything here in the read me file which needs to be updated every time in future what I can suggest to the user is that they can run the following command in that terminal to see all the available variables in the particular version of VT100 library.
+Since there are many variables defined in this library, so instead of listing everything here in the read me file which needs to be updated every time in future what I can suggest to the user is that they can run the following command in that terminal to see all the available variables in the particular version of VT100 library.
 
 ```batch
-Call VT100.bat /?
+call VT100.bat /?
 ```
+
+### Author: Kvc
 www.batch-man.com
