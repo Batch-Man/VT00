@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # VT100 Batch Library
 
 ## Overview
